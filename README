@@ -7,3 +7,7 @@ The goal is to produce a simple Java app that can quickly and easily take
 screenshots of Android devices connected to the host computer via USB from
 the command line.
 
+Presently this will build and run properly using something like:
+  alias screenshot='java -jar /usr/local/share/screenshot.jar'
+
+
